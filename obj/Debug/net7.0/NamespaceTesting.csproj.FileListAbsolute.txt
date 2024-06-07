@@ -1,0 +1,14 @@
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.AssemblyInfoInputs.cache
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.AssemblyInfo.cs
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.csproj.CoreCompileInputs.cache
+C:\Code\NamespaceTesting\bin\Debug\net7.0\NamespaceTesting.exe
+C:\Code\NamespaceTesting\bin\Debug\net7.0\NamespaceTesting.deps.json
+C:\Code\NamespaceTesting\bin\Debug\net7.0\NamespaceTesting.runtimeconfig.json
+C:\Code\NamespaceTesting\bin\Debug\net7.0\NamespaceTesting.dll
+C:\Code\NamespaceTesting\bin\Debug\net7.0\NamespaceTesting.pdb
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.dll
+C:\Code\NamespaceTesting\obj\Debug\net7.0\refint\NamespaceTesting.dll
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.pdb
+C:\Code\NamespaceTesting\obj\Debug\net7.0\NamespaceTesting.genruntimeconfig.cache
+C:\Code\NamespaceTesting\obj\Debug\net7.0\ref\NamespaceTesting.dll

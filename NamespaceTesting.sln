@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamespaceTesting", "NamespaceTesting.csproj", "{03381180-6B7E-41C4-8884-51CE3D5071AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03381180-6B7E-41C4-8884-51CE3D5071AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03381180-6B7E-41C4-8884-51CE3D5071AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03381180-6B7E-41C4-8884-51CE3D5071AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03381180-6B7E-41C4-8884-51CE3D5071AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885F3D25-D8A3-46C9-854A-B0332CC1C24D}
+	EndGlobalSection
+EndGlobal
