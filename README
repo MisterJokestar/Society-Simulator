@@ -1,2 +1,25 @@
 Console Society Simulator build in C#
-By James Wall
+@author James Wall
+@version 1.0.0
+
+    Key terms:
+
+Society - A list of person objects that can be saved into a '.people' text file.
+
+Person - An object to model a person, with name, age, occupation, likes, dislikes, and
+relationships
+
+Relationships - A dictionary field in Person objects that holds a key to another person object and
+a value representing the nature of the relationship
+
+    Files:
+
+Program.cs - Holds the main function to be called and controll the flow of the program as well as
+functions for menus and navigation of application.
+
+People.cs - Holds the Person class and the Population class. The person class is the main idea
+behind this project, as it is an object that models individuals inside a society. The population
+class exists to hold functions for populating a society using a parsing method developed for the
+Person Object to and from '.people' files.
+
+Builder.cs - Holds the Build class which has various functions for building societies.
